@@ -1,0 +1,18 @@
+[
+  {
+    "id": "49f9f89c-696c-4693-bbb8-c0edf8b8a3e2",
+    "email": "iurii+48345kfastbot@kaia-health.com",
+    "password_hash": "$2a$10$mffU0V1Kzf5qQDbr8yp6rOoqAU2WZgusLr4zNaY3d9f3IUA4aj3/O",
+    "provider_credentials": [
+      {
+        "id": "247584e4-7639-4251-a5a2-ecd28d06cf96",
+        "email": "iurii+48345kfastbot@kaia-health.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "0Oo4ceTSdJgA3wYvop1AV9ybBlrmpsapq+VTREpfa3hmMLaz93Pp3KuFObL4\nVUsZNHVxi14OZrA5AmNy1Xqr1g==\n"
+      }
+    ]
+  }
+]
