@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "repo_config": {
+      "id": "9ca7f608-3db5-4a0b-a293-06897c1104ec",
+      "git_url": "https://github.com/48345kfastbot/test_fastlane",
+      "description": null,
+      "provider_credential_type_needed": "github",
+      "name": "test_fastlane",
+      "hidden": false,
+      "full_name": "48345kfastbot/test_fastlane"
+    },
+    "enabled": true,
+    "project_name": "48345kfastbot/test_fastlane",
+    "id": "0b1e3c49-0c81-40ca-b3f6-aa31dea168ee",
+    "platform": "ios",
+    "lane": "custom_lane",
+    "artifact_provider": {
+      "class_name": "FastlaneCI::LocalArtifactProvider"
+    },
+    "job_triggers": [
+      {
+        "type": "manual",
+        "branch": "master"
+      }
+    ]
+  }
+]
